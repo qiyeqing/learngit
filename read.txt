@@ -3,3 +3,4 @@ and add into git!
 this is second start!
 this is three changes!
  xiugai
+ Git tracks changes.
